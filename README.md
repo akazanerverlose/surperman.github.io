@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -34,7 +34,7 @@ margin-left: 20px;
         style="height: 30px; width: 95px"
         src="cost2.jpg"
         alt="marquee"
-      />សូមស្វាគមន៍មកកាន់!!IT Woman science and technology</marquee
+      >សូមស្វាគមន៍មកកាន់!!IT Woman science and technology<marquee
     >
     <div class="div1">
     <img style="width: 400px;width: 400px;" src="photo.jpg" alt="">
